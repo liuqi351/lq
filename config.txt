@@ -7,14 +7,13 @@
 # 模板消息id
 "template_id": "A0lPq5p5fgZWgitvoOIElCLx98ROnwwa8Vvi5_GjcSM",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["粘贴自己的，不是自己的微信号，而是扫描二维码后，右边的那个很长的一串字符"],
+"user": ["oiisv5k8WFnxboML3LlRtUlHF8Dk"],
 
 # 信息配置
 # 和风天气apikey
 "weather_key": "f04ce62e2c8740ea9dce064416a71ee0",
 # 天行数据apikey
-"tian_api": "
-f04ce62e2c8740ea9dce064416a71ee0",
+"tian_api": "f04ce62e2c8740ea9dce064416a71ee0",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
 "region": "杭州",
 # 生日
